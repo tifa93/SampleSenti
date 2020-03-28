@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "812889048084",
+    "firebase_url": "https://samplesenti-2f066.firebaseio.com",
+    "project_id": "samplesenti-2f066",
+    "storage_bucket": "samplesenti-2f066.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:812889048084:android:f8fbd3239b9297507c5301",
+        "android_client_info": {
+          "package_name": "com.example.samplesenti"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "812889048084-4cs2llcrc2h0s2aolc22j7f5kabnq7lb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqK9S3NS5c5k6LBqu0PVTZH04rX9Xa5YU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "812889048084-4cs2llcrc2h0s2aolc22j7f5kabnq7lb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
